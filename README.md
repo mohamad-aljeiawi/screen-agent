@@ -5,6 +5,9 @@
 
 **Screen Analyzer** is an Android application written in Kotlin using the Jetpack Compose framework. This app performs screen analysis to detect faces using Google’s ML Kit. It operates through a background service that captures the screen periodically, processes images to detect faces, and then overlays rectangles around detected faces on the screen.
 
+![photo_2024-11-09_01-01-29](https://github.com/user-attachments/assets/90a8f5a6-f756-4e6d-8717-56a2438ba856)
+
+
 ## Features
 
 - **Background Screen Capture**: Runs a background service to analyze the screen at regular intervals.
