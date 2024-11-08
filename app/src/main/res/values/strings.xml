@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test-touch</string>
+    <string name="accessibility_service_description">cping app</string>
+</resources>
