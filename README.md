@@ -46,8 +46,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/repo_name.git
-   cd repo_name
+   git clone https://github.com/CP0004/screen-agent.git
+   cd screen-agent
    ```
 
 2. **Add ML Kit Dependency** in your `build.gradle` file:
