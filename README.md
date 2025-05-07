@@ -46,7 +46,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/CP0004/screen-agent.git
+   git clone https://github.com/mohamad-aljeiawi/screen-agent.git
    cd screen-agent
    ```
 
